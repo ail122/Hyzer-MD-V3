@@ -1,5 +1,5 @@
 //=============『 Utama 』================== //
-global.owner = ['6289516947204'] 
+global.owner = ['6289516947204','6288213988636'] 
 global.mods = [] 
 global.prems = [] 
 
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '©  Official'
+global.author = '© Iyan Official'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
